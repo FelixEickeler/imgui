@@ -11,7 +11,7 @@ you can't because imguitoolbar.cpp includes some methods that are static inside 
 */
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 namespace ImGui {

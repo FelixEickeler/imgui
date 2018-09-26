@@ -17,7 +17,7 @@
 #define IMGUIPDFVIEWER_H_
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 // Code ported from another one of my projects (used a different GUI and worked like a charm!).

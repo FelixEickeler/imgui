@@ -10,7 +10,7 @@
 #endif // IMGUI_USE_GLEW
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 // include openGL headers here:

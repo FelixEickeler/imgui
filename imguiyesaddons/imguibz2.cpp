@@ -43,7 +43,7 @@ bzip2/libbzip2 version 1.0.5 of 10 December 2007
 --------------------------------------------------------------------------*/
 
 //- Common Code For All Addons needed just to ease inclusion as separate files in user code ----------------------
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #undef IMGUI_DEFINE_MATH_OPERATORS
 #define IMGUI_DEFINE_MATH_OPERATORS
 #include "imgui_internal.h"

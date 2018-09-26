@@ -653,7 +653,7 @@ void edtaa3(double *img, double *gx, double *gy, int w, int h, short *distx, sho
 
 #ifdef EDTAA3FUNC_HAS_IMGUI_SUPPORT
 
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 
 namespace ImGuiEdtaaHelper {
 // The purpose of TmpData is to allow releasing the memory all togther
