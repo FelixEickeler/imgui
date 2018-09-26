@@ -34,7 +34,7 @@ To edit and save a style, you can use the default ImGui example and append to th
 */
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 // From <imgui.cpp>:--------------------------------------------------------

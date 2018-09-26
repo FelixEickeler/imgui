@@ -60,7 +60,7 @@
 */
 
 #ifndef IMGUI_API
-#	include <imgui.h>
+#	include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 

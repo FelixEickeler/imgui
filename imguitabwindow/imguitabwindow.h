@@ -2,7 +2,7 @@
 #define IMGUITABWINDOW_H_
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 // This addon is available here:                        https://gist.github.com/Flix01/2cdf1db8d936100628c0

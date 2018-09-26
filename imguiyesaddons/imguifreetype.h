@@ -11,7 +11,7 @@
 */
 
 #ifndef IMGUI_API
-#	include <imgui.h>
+#	include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 #ifndef IMGUI_DISABLE_STB_RECT_PACK_IMPLEMENTATION

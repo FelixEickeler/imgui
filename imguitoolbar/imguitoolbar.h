@@ -17,7 +17,7 @@
 #define IMGUITOOLBAR_H_
 
 #ifndef IMGUI_API
-#include <imgui.h>
+#include <dear-imgui/imgui.h>
 #endif //IMGUI_API
 
 // SOME EXAMPLE CODE

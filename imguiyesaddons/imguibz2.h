@@ -58,7 +58,7 @@ bzip2/libbzip2 version 1.0.5 of 10 December 2007
 // imguihelper.h has methods to decompress directly from a file path AFAIR
 
 #ifndef IMGUI_API
-#include <imgui.h>  // ImVector
+#include <dear-imgui/imgui.h>  // ImVector
 #endif //IMGUI_API
 
 
